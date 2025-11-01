@@ -2,7 +2,7 @@
 
 Un simple repo pour partager mes flashcards à mes collègues.
 
-Si vous souhaitez mettre les votre, faites un pull request avec le contenu dans un dossier vous identifiant
+Si vous souhaitez mettre les votre, faites un pull request avec le contenu dans un dossier vous identifiant, vous êtes libre d'organiser votre dossier comme vous le voulez.
 
 Rappel que Anki permet juste de retenir des informations dans le temps, pas de remplacer la pratique.
 
